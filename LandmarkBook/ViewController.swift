@@ -22,8 +22,8 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         tableView.dataSource = self
         
         
-        landmarkNames.append("Bürüksel")
-        landmarkNames.append("Eyfel")
+        landmarkNames.append("Brüksel")
+        landmarkNames.append("Paris")
         landmarkNames.append("İtalya")
         landmarkNames.append("Japonya")
         landmarkNames.append("Venedik")
