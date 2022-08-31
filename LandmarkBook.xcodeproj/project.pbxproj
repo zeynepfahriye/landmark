@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		578A5E6D28BFE5F200AACE45 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578A5E6C28BFE5F200AACE45 /* DetailsVC.swift */; };
 		57A91F7328B7B1E300FA1812 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A91F7228B7B1E300FA1812 /* AppDelegate.swift */; };
 		57A91F7528B7B1E300FA1812 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A91F7428B7B1E300FA1812 /* SceneDelegate.swift */; };
 		57A91F7728B7B1E300FA1812 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A91F7628B7B1E300FA1812 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		578A5E6C28BFE5F200AACE45 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 		57A91F6F28B7B1E300FA1812 /* LandmarkBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LandmarkBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A91F7228B7B1E300FA1812 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57A91F7428B7B1E300FA1812 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				57A91F7228B7B1E300FA1812 /* AppDelegate.swift */,
 				57A91F7428B7B1E300FA1812 /* SceneDelegate.swift */,
 				57A91F7628B7B1E300FA1812 /* ViewController.swift */,
+				578A5E6C28BFE5F200AACE45 /* DetailsVC.swift */,
 				57A91F7828B7B1E300FA1812 /* Main.storyboard */,
 				57A91F7B28B7B1E400FA1812 /* Assets.xcassets */,
 				57A91F7D28B7B1E400FA1812 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57A91F7728B7B1E300FA1812 /* ViewController.swift in Sources */,
+				578A5E6D28BFE5F200AACE45 /* DetailsVC.swift in Sources */,
 				57A91F7328B7B1E300FA1812 /* AppDelegate.swift in Sources */,
 				57A91F7528B7B1E300FA1812 /* SceneDelegate.swift in Sources */,
 			);
